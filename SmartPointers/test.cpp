@@ -1,4 +1,4 @@
-#include "smart_pointers.hpp";
+/*#include "smart_pointers.hpp";
 
 int main()
 {
@@ -28,4 +28,4 @@ int main()
     size_t sizeE = sizeof(shared_e);
 
     return 0;
-}
+}*/
