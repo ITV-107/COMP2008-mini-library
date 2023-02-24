@@ -1,3 +1,6 @@
+#ifndef SMART_POINTER_HPP // Header guard to prevent the test program from doing shenanigans.
+#define SMART_POINTER_HPP
+
 /*
 / ============================================================================
 | ======================== COMP2008  Embedded Systems ========================
@@ -161,6 +164,5 @@ namespace emb {
             return ptr;
         }
     };
-
-
 }
+#endif
